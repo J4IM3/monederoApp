@@ -1,0 +1,8 @@
+{
+  "name": "monederoApp",
+  "app_id": "a13eda83",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
